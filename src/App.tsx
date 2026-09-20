@@ -1148,7 +1148,7 @@ function Contact() {
             message: form.message,
             to_email: 'pixelbaya@gmail.com',
           },
-          'YOUR_EMAILJS_PUBLIC_KEY',
+          '3-F4GND5wgPcXyizk',
         )
       )
       setSent(true)
