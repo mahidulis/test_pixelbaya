@@ -1,0 +1,10 @@
+{
+  "description": "Showcase a design agency's portfolio and categorize services like graphic design, branding, UI/UX, and video editing to attract and inform clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
