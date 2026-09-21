@@ -235,7 +235,7 @@ export default function SiteFooter() {
             whiteSpace: 'nowrap', userSelect: 'none', lineHeight: 1,
             fontFamily: 'Inter, sans-serif',
           }}>
-            formstudio
+            PixelBaya
           </div>
         </div>
 
