@@ -24,7 +24,7 @@ const TEAM = [
     tag: 'Strategy',
   },
   {
-    name: 'Akber Ahmed Araf',
+    name: 'Akbar Ahmed',
     role: 'Head of UI / UX',
     bio: "Araf designs systems that feel inevitable — bringing product discipline to every interface we ship.",
     img: imgAraf,
